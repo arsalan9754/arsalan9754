@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @arsalan9754
-- 👀 I’m interested in python & C# & C++
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Arsalan
+- 👀 I’m interested in Js & C++
+- 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me ...
 - 😄 Pronouns: boy
-- ⚡ Fun fact: im living in iran and im still alive.
+- ⚡ Fun fact: I live in iran and im alive yet.
 
 <!---
 arsalan9754/arsalan9754 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
