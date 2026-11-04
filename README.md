@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsalan</h1>
 <h3 align="center">A passionate Python & AI developer from Iran</h3>
 
-<img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/userupload/25447039/file/still-e22c4bd09c79d294ce98ea0142e15757.gif" >
+<img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalan-sadeghi&label=Profile%20views&color=0e75b6&style=flat" alt="arsalan-sadeghi" /> </p>
 
